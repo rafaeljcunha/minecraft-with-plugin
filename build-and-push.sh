@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Substitua pelo seu nome de usuário Docker Hub
-USERNAME="rafaeljcunha1"
-IMAGE_NAME="minecraft-geyser-essential"
+USERNAME="seu-usuario"
+IMAGE_NAME="nome_image"
 TAG="latest"
 
 echo "📦 Construindo a imagem Docker..."
