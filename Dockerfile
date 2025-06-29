@@ -1,4 +1,4 @@
-FROM itzg/minecraft-server:java21
+FROM itzg/minecraft-server:latest
 
 # Cria pasta de plugins
 RUN mkdir -p /plugins
